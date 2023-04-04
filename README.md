@@ -19,7 +19,7 @@ Tipster is an app that allows users to browse movies from the [The Movie Databas
 
 ## License
 
-    Copyright [2022] [Jacky Li]
+    Copyright [2023] [Jacky Li]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
